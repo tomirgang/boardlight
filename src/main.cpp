@@ -67,7 +67,7 @@ void loop()
   switch (mode)
   {
   case RAINBOW:
-    rainbow(leds);
+    rainbow(rainbow_speed, leds);
     break;
   case SOLID:
     solid(solid_color, leds);
