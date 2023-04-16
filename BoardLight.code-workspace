@@ -3,6 +3,18 @@
 		{
 			"name": "BoardLight",
 			"path": "."
+		},
+		{
+			"name": "DiskoLichtAnna",
+			"path": "../DiskoLichtAnna"
+		},
+		{
+			"name": "DiskoLichtAmelie",
+			"path": "../DiskoLichtAmelie"
+		},
+		{
+			"name": "Pixelwall",
+			"path": "../Pixelwall"
 		}
 	],
 	"settings": {}

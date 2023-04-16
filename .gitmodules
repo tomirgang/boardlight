@@ -1,3 +1,6 @@
 [submodule "lib/neopixelbus"]
 	path = lib/neopixelbus
 	url = https://github.com/Makuna/NeoPixelBus.git
+[submodule "lib/ESblinkt"]
+	path = lib/ESblinkt
+	url = git@github.com:tomirgang/ESblinkt.git
